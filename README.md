@@ -1,21 +1,18 @@
 <!-- ======================================================== -->
-<!-- 🔮 HERO BANNER & CYBER VIOLET TRANSITION                 -->
+<!-- 🔮 HERO HEADER & ANIMATED IDENTITY                       -->
 <!-- ======================================================== -->
 
 <div align="center">
-  <!-- Cyber Violet Particle Rain GIF Banner (Autoplays seamlessly) -->
-  <img src="assets/cyber_rain.gif" width="600" alt="Cyber Violet Particle Rain" style="border-radius: 12px; max-width: 100%; box-shadow: 0 6px 30px rgba(168,85,247,0.35);" />
+  <!-- Dynamic Waving Header with Twinkling Stars Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Software%20Engineer&fontSize=44&fontAlignY=38&animation=twinkling&desc=Distributed%20Systems%20%7C%20Microservices%20%7C%20Cloud-Native&descSize=17&descAlignY=60" width="100%" alt="Software Engineer"/>
+</div>
 
-  <br/><br/>
-
-  <!-- Crisp Centered Title & Subtitle (Zero background mismatch) -->
-  <h1 align="center">Software Engineer</h1>
-  <p align="center">
-    <b>Distributed Systems &middot; Microservices &middot; Cloud-Native</b>
-  </p>
-
+<div align="center">
+  <br/>
   <!-- Large Sharp Typing SVG Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=740&height=40&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Van+Khanh;Java+Backend+Engineer+%E2%9A%A1;Distributed+Systems+%26+Microservices+%F0%9F%8C%8A;Apache+Kafka+Event-Driven+Architecture+%F0%9F%9A%80;Redis+Distributed+Caching+%26+Locks+%F0%9F%94%A5;C%2B%2B+Algorithm+Optimization+%26+IoT+%F0%9F%A7%A9" alt="Typing SVG" />
+  <a href="https://github.com/Khanhnv26">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=740&height=40&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Van+Khanh;Java+Backend+Engineer+%E2%9A%A1;Distributed+Systems+%26+Microservices+%F0%9F%8C%8A;Apache+Kafka+Event-Driven+Architecture+%F0%9F%9A%80;Redis+Distributed+Caching+%26+Locks+%F0%9F%94%A5;C%2B%2B+Algorithm+Optimization+%26+IoT+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
 
   <p>
     🎓 Final-year Software Engineering student @ <b>FPT University Hanoi</b> &middot; 💼 Java Backend Intern @ <b>VNPT Cloud</b>
@@ -28,11 +25,11 @@
     <a href="https://leetcode.com/u/KhanhLiteraturez/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
     <img src="https://img.shields.io/badge/FPT_UNIVERSITY-F37021?style=for-the-badge&logo=fpt&logoColor=white" alt="FPT University"/>
     <img src="https://img.shields.io/badge/VNPT_CLOUD-005BAA?style=for-the-badge&logo=cloud&logoColor=white" alt="VNPT Cloud"/>
-    <img src="https://img.shields.io/github/followers/Khanhnv26?style=for-the-badge&logo=github&color=A855F7&labelColor=0D0614" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Khanhnv26?style=for-the-badge&logo=github&color=38BDF8&labelColor=0D1117" alt="Followers"/>
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:E879F9&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- ⚡ CORE ENGINEERING FOCUS                                 -->
@@ -42,7 +39,7 @@
 
 Dedicated to architecting **low-latency, fault-tolerant distributed systems** and high-throughput backend services. Specialized in building scalable microservices with **Spring Boot 3**, designing asynchronous event pipelines via **Apache Kafka**, and enforcing high-concurrency data consistency with **Redis distributed locks**. Experienced in competitive problem solving, memory optimization, and low-level IoT systems in **C++**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:E879F9&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- 🛠 TECH STACK & TOOLING                                   -->
@@ -94,7 +91,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:E879F9&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- 🚀 FEATURED PROJECTS                                    -->
@@ -140,7 +137,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
     <img src="https://img.shields.io/badge/REST_API-06B6D4?style=flat-square" alt="REST API"/>
   * **Key Solutions:** Multi-tier service layer architecture, robust transactional checkout pipelines, and relational database indexing for query speedups.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:E879F9&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- 📊 GITHUB ANALYTICS & PROBLEM SOLVING                    -->
@@ -163,7 +160,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img height="185" src="https://streak-stats.demolab.com/?user=Khanhnv26&hide_border=false&border_radius=8&background=0D0614&ring=A855F7&fire=E879F9&currStreakLabel=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=C084FC&dates=94A3B8" alt="GitHub Streak Analytics" />
+      <img height="185" src="https://streak-stats.demolab.com/?user=Khanhnv26&hide_border=false&border_radius=8&background=0D1117&ring=38BDF8&fire=FDBA74&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=38BDF8&dates=94A3B8" alt="GitHub Streak Analytics" />
     </td>
   </tr>
 </table>
@@ -180,7 +177,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:E879F9&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- ✍️ RANDOM DEV QUOTE                                      -->
@@ -202,5 +199,5 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
   <p>
     <b>Designed with focus &bull; Built for high concurrency &bull; &copy; 2026 Nguyen Van Khanh</b>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:E879F9&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=100&section=footer" width="100%"/>
 </div>
