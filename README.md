@@ -6,11 +6,16 @@
   <!-- Cyber Violet Particle Rain GIF Banner (Autoplays seamlessly) -->
   <img src="assets/cyber_rain.gif" width="600" alt="Cyber Violet Particle Rain" style="border-radius: 12px; max-width: 100%; box-shadow: 0 6px 30px rgba(168,85,247,0.35);" />
 
-  <!-- Seamless Capsule Wave Header Transition -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0614&height=180&section=header&text=Software%20Engineer&fontSize=42&fontColor=C084FC&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20%7C%20Distributed%20Systems%20%7C%20Cloud-Native&descSize=16&descAlignY=62&descColor=E879F9" width="100%"/>
+  <br/><br/>
+
+  <!-- Crisp Centered Title & Subtitle (Zero background mismatch) -->
+  <h1 align="center">Software Engineer</h1>
+  <p align="center">
+    <b>Distributed Systems &middot; Microservices &middot; Cloud-Native</b>
+  </p>
 
   <!-- Large Sharp Typing SVG Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=740&height=44&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Van+Khanh;Building+Scalable+Microservices+%E2%9A%A1;Apache+Kafka+Event-Driven+Architecture+%F0%9F%9A%80;Redis+Distributed+Caching+%26+Locks+%F0%9F%94%A5;C%2B%2B+Algorithm+Optimization+%26+IoT+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=740&height=40&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Van+Khanh;Java+Backend+Engineer+%E2%9A%A1;Distributed+Systems+%26+Microservices+%F0%9F%8C%8A;Apache+Kafka+Event-Driven+Architecture+%F0%9F%9A%80;Redis+Distributed+Caching+%26+Locks+%F0%9F%94%A5;C%2B%2B+Algorithm+Optimization+%26+IoT+%F0%9F%A7%A9" alt="Typing SVG" />
 
   <p>
     🎓 Final-year Software Engineering student @ <b>FPT University Hanoi</b> &middot; 💼 Java Backend Intern @ <b>VNPT Cloud</b>
@@ -197,5 +202,5 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
   <p>
     <b>Designed with focus &bull; Built for high concurrency &bull; &copy; 2026 Nguyen Van Khanh</b>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0614&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:E879F9&height=100&section=footer" width="100%"/>
 </div>
