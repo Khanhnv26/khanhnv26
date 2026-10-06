@@ -9,8 +9,12 @@
   <!-- Seamless Capsule Wave Header Transition -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0614&height=180&section=header&text=Software%20Engineer&fontSize=42&fontColor=C084FC&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20%7C%20Distributed%20Systems%20%7C%20Cloud-Native&descSize=16&descAlignY=62&descColor=E879F9" width="100%"/>
 
+<<<<<<< HEAD
   <!-- Large Sharp Typing SVG Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=740&height=44&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Van+Khanh;Building+Scalable+Microservices+%E2%9A%A1;Apache+Kafka+Event-Driven+Architecture+%F0%9F%9A%80;Redis+Distributed+Caching+%26+Locks+%F0%9F%94%A5;C%2B%2B+Algorithm+Optimization+%26+IoT+%F0%9F%A7%A9" alt="Typing SVG" />
+=======
+  <h1>Software Engineering</h1>
+>>>>>>> 100bbd2ee23d023b6a40332883853d2ff4d19aa3
 
   <p>
     🎓 Final-year Software Engineering student @ <b>FPT University Hanoi</b> &middot; 💼 Java Backend Intern @ <b>VNPT Cloud</b>
