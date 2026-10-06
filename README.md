@@ -7,7 +7,7 @@
 
   <br/><br/>
 
-  <h1>Hi 👋 I'm Nguyen Van Khanh</h1>
+  <h1>Software Engineering</h1>
 
   <p>
     <b>Final-year Software Engineering Student @ FPT University Hanoi &middot; Java Backend Intern @ VNPT Cloud</b>
