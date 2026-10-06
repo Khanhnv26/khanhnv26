@@ -7,8 +7,12 @@
 
   <br/><br/>
 
-  <h1>Nguyen Van Khanh</h1>
-  <p><b>Java Backend Engineer &middot; Distributed Systems &middot; Cloud-Native</b></p>
+  <h1>Nguyen Van Khanh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="34" height="34" style="vertical-align: middle;" /></h1>
+
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&height=35&lines=Java+Backend+Engineer+%E2%9A%A1;Distributed+Systems+%26+Microservices+%F0%9F%8C%8A;Kafka+Event-Driven+Architecture+%F0%9F%9A%80;Redis+Distributed+Caching+%26+Locks+%F0%9F%94%A5;C%2B%2B+Algorithm+Optimization+%26+IoT+%F0%9F%A7%A9" alt="Typing SVG" />
+  </div>
+
   <p>
     <sub>Final-year Software Engineering student @ <b>FPT University Hanoi</b> &middot; Backend Intern @ <b>VNPT Cloud</b></sub>
   </p>
@@ -28,7 +32,7 @@
 <!-- ⚡ CORE ENGINEERING FOCUS                                 -->
 <!-- ======================================================== -->
 
-## ⚡ Core Engineering Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="28" height="28" style="vertical-align: middle;" /> Core Engineering Focus
 
 Tập trung thiết kế và tối ưu **hệ thống phân tán có độ trễ thấp, thông lượng cao**. Kiến trúc các dịch vụ vi mô (Microservices) chịu tải tốt với **Spring Boot 3**, ứng dụng **Apache Kafka** cho mô hình Event-Driven, sử dụng **Redis distributed locks** để kiểm soát tranh chấp đồng thời và bảo đảm tính nhất quán của dữ liệu. Ngoài ra là khả năng lập trình phần cứng IoT và giải thuật tối ưu với **C++**.
 
@@ -38,7 +42,7 @@ Tập trung thiết kế và tối ưu **hệ thống phân tán có độ trễ
 <!-- 🛠 TECH STACK & TOOLING                                   -->
 <!-- ======================================================== -->
 
-## 🛠 Tech Stack & Tooling
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" style="vertical-align: middle;" /> Tech Stack & Tooling
 
 <table width="100%">
   <tr>
@@ -65,7 +69,7 @@ Tập trung thiết kế và tối ưu **hệ thống phân tán có độ trễ
 <!-- 🚀 FEATURED SYSTEMS & ARCHITECTURE                        -->
 <!-- ======================================================== -->
 
-## 🚀 Featured Systems
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" style="vertical-align: middle;" /> Featured Systems
 
 ### ⭐ [Mini Waybill Platform](https://github.com/Khanhnv26/Mini-Waybill-Platform---VNPT-Cloud) (VNPT Cloud)
 > *Nền tảng logistics & theo dõi vòng đời bưu kiện phân tán theo kiến trúc Microservices.*
@@ -121,7 +125,7 @@ flowchart LR
 <!-- 📊 ENGINEERING PROOF & ACTIVITY                           -->
 <!-- ======================================================== -->
 
-## 📊 Engineering Activity & Proof of Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" height="28" style="vertical-align: middle;" /> Engineering Activity & Proof of Work
 
 <!-- GitHub Trophy Ribbon -->
 <div align="center">
