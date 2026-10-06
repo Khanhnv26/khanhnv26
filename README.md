@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=240&section=header&text=Nguyen%20Van%20Khanh&fontSize=46&fontColor=38BDF8&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20C%2B%2B%20%26%20Java&descSize=18&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=240&section=header&text=Nguyen%20Van%20Khanh&fontSize=46&fontColor=38BDF8&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20Developer%20-%20Distributed%20Systems%20-%20Microservices&descSize=18&descAlignY=60" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khanhnv26&label=Profile%20views&color=38BDF8&labelColor=0F172A&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Khanhnv26?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" alt="Followers"/>
   <img src="https://img.shields.io/badge/FPT_University-Final--year_Student-38BDF8?style=for-the-badge&labelColor=0F172A" alt="FPT University"/>
   <img src="https://img.shields.io/badge/VNPT_Cloud-Backend_Intern-38BDF8?style=for-the-badge&labelColor=0F172A" alt="VNPT Cloud"/>
