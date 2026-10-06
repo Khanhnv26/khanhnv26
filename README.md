@@ -13,7 +13,7 @@
 <br/>
 
 ### 🥺 About Me
-- 🎓 Final-year Software Engineering student at **FPT University Hanoi** (GPA: 3.6/4.0 | 8.88/10, recipient of 100% Scholarship)[cite: 1].
+- 🎓 Final-year Software Engineering student at **FPT University Hanoi** [cite: 1].
 - 💼 Currently working as a **Java Backend Developer Intern** at **VNPT Cloud**[cite: 1].
 - 🚀 Core Focus: Designing high-throughput, low-latency distributed systems, Spring Boot microservices, Kafka event streaming, and robust database indexing[cite: 1, 2].
 - ⚡ Hardware & Algorithmic Mindset: Proficient in **C++** for embedded IoT solutions, automated sensor systems, and competitive problem solving[cite: 1, 3].
