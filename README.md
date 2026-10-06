@@ -13,8 +13,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Khanhnv26&label=Profile%20views&color=38BDF8&labelColor=0F172A&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Khanhnv26?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" alt="Followers"/>
-  <img src="https://img.shields.io/badge/FPT_University-GPA_3.6%2F4.0-38BDF8?style=for-the-badge&labelColor=0F172A" alt="FPT University"/>
-  <img src="https://img.shields.io/badge/VNPT_Cloud-Backend_Intern-38BDF8?style=for-the-badge&labelColor=0F172A" alt="VNPT Cloud"/>
 </div>
 
 <br/>
