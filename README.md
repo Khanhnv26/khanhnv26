@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Khanhnv26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+a+Software+Engineer+%26+Java+Backend+Developer;Final-year+Software+Engineering+Student+%40+FPT+University;Building+Scalable+Microservices%2C+Kafka+%26+Redis+Caching;Embedded+IoT+Systems+%26+Algorithm+Optimization+with+C%2B%2B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+a+Java+Backend+Developer;Final-year+Software+Engineering+Student+%40+FPT+University;Building+Scalable+Microservices%2C+Kafka+%26+Redis+Caching;Embedded+IoT+Systems+%26+Algorithm+Optimization+with+C%2B%2B" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Khanhnv26&label=Profile%20views&color=38BDF8&labelColor=0F172A&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Khanhnv26?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" alt="Followers"/>
-  <img src="https://img.shields.io/badge/FPT_University-Software_Engineering-38BDF8?style=for-the-badge&labelColor=0F172A" alt="FPT University"/>
+  <img src="https://img.shields.io/badge/FPT_University-Final--year_Student-38BDF8?style=for-the-badge&labelColor=0F172A" alt="FPT University"/>
   <img src="https://img.shields.io/badge/VNPT_Cloud-Backend_Intern-38BDF8?style=for-the-badge&labelColor=0F172A" alt="VNPT Cloud"/>
 </div>
 
@@ -191,11 +191,21 @@ flowchart LR
 
 <h2 align="center">📊 GitHub Metrics</h2>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Khanhnv26&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Khanhnv26&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=38BDF8&dates=94A3B8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanhnv26&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khanhnv26&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" />
+    </td>
+    <td width="50%" align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanhnv26&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="170" src="https://streak-stats.demolab.com/?user=Khanhnv26&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=38BDF8&dates=94A3B8" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
