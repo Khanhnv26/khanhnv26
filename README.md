@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Dynamic Waving Header with Twinkling Stars Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Software%20Engineer&fontSize=44&fontAlignY=38&animation=twinkling&desc=Distributed%20Systems%20%7C%20Microservices%20%7C%20Cloud-Native&descSize=17&descAlignY=60" width="100%" alt="Software Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=220&section=header&text=Software%20Engineer&fontSize=44&fontAlignY=38&animation=twinkling&desc=Distributed%20Systems%20%7C%20Microservices%20%7C%20Cloud-Native&descSize=17&descAlignY=60" width="100%" alt="Software Engineer"/>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- ⚡ CORE ENGINEERING FOCUS                                 -->
@@ -39,7 +39,7 @@
 
 Dedicated to architecting **low-latency, fault-tolerant distributed systems** and high-throughput backend services. Specialized in building scalable microservices with **Spring Boot 3**, designing asynchronous event pipelines via **Apache Kafka**, and enforcing high-concurrency data consistency with **Redis distributed locks**. Experienced in competitive problem solving, memory optimization, and low-level IoT systems in **C++**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- 🛠 TECH STACK & TOOLING                                   -->
@@ -91,7 +91,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- 🚀 FEATURED PROJECTS                                    -->
@@ -137,7 +137,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
     <img src="https://img.shields.io/badge/REST_API-06B6D4?style=flat-square" alt="REST API"/>
   * **Key Solutions:** Multi-tier service layer architecture, robust transactional checkout pipelines, and relational database indexing for query speedups.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- 📊 GITHUB ANALYTICS & PROBLEM SOLVING                    -->
@@ -160,7 +160,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img height="185" src="https://streak-stats.demolab.com/?user=Khanhnv26&hide_border=false&border_radius=8&background=0D1117&ring=38BDF8&fire=FDBA74&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=38BDF8&dates=94A3B8" alt="GitHub Streak Analytics" />
+      <img height="185" src="https://streak-stats.demolab.com/?user=Khanhnv26&hide_border=false&border_radius=8&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=EC4899&dates=94A3B8" alt="GitHub Streak Analytics" />
     </td>
   </tr>
 </table>
@@ -177,7 +177,7 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
 <!-- ======================================================== -->
 <!-- ✍️ RANDOM DEV QUOTE                                      -->
@@ -199,5 +199,5 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
   <p>
     <b>Designed with focus &bull; Built for high concurrency &bull; &copy; 2026 Nguyen Van Khanh</b>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=100&section=footer" width="100%"/>
 </div>
