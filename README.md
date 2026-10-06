@@ -1,15 +1,9 @@
-<!-- ======================================================== -->
-<!-- 🔮 HERO HEADER & ANIMATED IDENTITY                       -->
-<!-- ======================================================== -->
-
 <div align="center">
-  <!-- Dynamic Waving Header with Twinkling Stars Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=220&section=header&text=Software%20Engineer&fontSize=44&fontAlignY=38&animation=twinkling&desc=Distributed%20Systems%20%7C%20Microservices%20%7C%20Cloud-Native&descSize=17&descAlignY=60" width="100%" alt="Software Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=220&section=header&text=Software%20Engineer&fontSize=44&fontAlignY=38&animation=twinkling&desc=Distributed%20Systems%20%7C%20Microservices%20%7C%20Cloud-Native&descSize=17&descAlignY=60&fontColor=FFFFFF&stroke=38BDF8&strokeWidth=1" width="100%" alt="Software Engineer"/>
 </div>
 
 <div align="center">
   <br/>
-  <!-- Large Sharp Typing SVG Animation -->
   <a href="https://github.com/Khanhnv26">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=740&height=40&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Van+Khanh;Java+Backend+Engineer+%E2%9A%A1;Distributed+Systems+%26+Microservices+%F0%9F%8C%8A;Apache+Kafka+Event-Driven+Architecture+%F0%9F%9A%80;Redis+Distributed+Caching+%26+Locks+%F0%9F%94%A5;C%2B%2B+Algorithm+Optimization+%26+IoT+%F0%9F%A7%A9" alt="Typing SVG" />
   </a>
@@ -18,7 +12,6 @@
     🎓 Final-year Software Engineering student @ <b>FPT University Hanoi</b> &middot; 💼 Java Backend Intern @ <b>VNPT Cloud</b>
   </p>
 
-  <!-- Vibrant Social Badges -->
   <p>
     <a href="mailto:vankhanhak54@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/Khanhnv26"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -31,19 +24,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
-<!-- ======================================================== -->
-<!-- ⚡ CORE ENGINEERING FOCUS                                 -->
-<!-- ======================================================== -->
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="28" height="28" style="vertical-align: middle;" /> Core Engineering Focus
 
 Dedicated to architecting **low-latency, fault-tolerant distributed systems** and high-throughput backend services. Specialized in building scalable microservices with **Spring Boot 3**, designing asynchronous event pipelines via **Apache Kafka**, and enforcing high-concurrency data consistency with **Redis distributed locks**. Experienced in competitive problem solving, memory optimization, and low-level IoT systems in **C++**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
-
-<!-- ======================================================== -->
-<!-- 🛠 TECH STACK & TOOLING                                   -->
-<!-- ======================================================== -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" style="vertical-align: middle;" /> Tech Stack & Tooling
 
@@ -93,10 +78,6 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
-<!-- ======================================================== -->
-<!-- 🚀 FEATURED PROJECTS                                    -->
-<!-- ======================================================== -->
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" style="vertical-align: middle;" /> Featured Projects
 
 * 🚚 **[Mini Waybill Platform](https://github.com/Khanhnv26/Mini-Waybill-Platform---VNPT-Cloud)** *(Flagship System @ VNPT Cloud)*
@@ -139,13 +120,8 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
-<!-- ======================================================== -->
-<!-- 📊 GITHUB ANALYTICS & PROBLEM SOLVING                    -->
-<!-- ======================================================== -->
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" height="28" style="vertical-align: middle;" /> Engineering Analytics & Problem Solving
 
-<!-- GitHub Trophy Ribbon -->
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=Khanhnv26&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
@@ -167,7 +143,6 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 
 <br/>
 
-<!-- Contribution Snake Animation (Cyber Violet Theme) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khanhnv26/Khanhnv26/output/github-contribution-grid-snake-dark.svg"/>
@@ -179,10 +154,6 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
-<!-- ======================================================== -->
-<!-- ✍️ RANDOM DEV QUOTE                                      -->
-<!-- ======================================================== -->
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
@@ -190,10 +161,6 @@ Dedicated to architecting **low-latency, fault-tolerant distributed systems** an
 </div>
 
 <br/>
-
-<!-- ======================================================== -->
-<!-- 🤝 FOOTER                                                -->
-<!-- ======================================================== -->
 
 <div align="center">
   <p>
