@@ -1,28 +1,31 @@
 <!-- ======================================================== -->
-<!-- 🌊 HERO BANNER & INTRO                                 -->
+<!-- 🌊 SPLIT HERO HEADER (BALANCED 2-COLUMN)                  -->
 <!-- ======================================================== -->
 
-<div align="center">
-  <img src="assets/banner.gif" width="100%" alt="Ocean Wave Banner" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B192C&height=200&section=header&text=Nguyen%20Van%20Khanh&fontSize=42&fontColor=38BDF8&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20Developer%20%7C%20Distributed%20Systems%20%7C%20Cloud-Native&descSize=16&descAlignY=60&descColor=94A3B8" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Khanhnv26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+a+Java+Backend+Developer;Final-year+Software+Engineering+Student+%40+FPT+University;Building+Scalable+Microservices%2C+Kafka+%26+Redis+Caching;Embedded+IoT+Systems+%26+Algorithm+Optimization+with+C%2B%2B" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Khanhnv26?style=for-the-badge&logo=github&color=38BDF8&labelColor=0B192C" alt="Followers"/>
-  <img src="https://img.shields.io/badge/FPT_University-Final--year_Student-06B6D4?style=for-the-badge&labelColor=0B192C" alt="FPT University"/>
-  <img src="https://img.shields.io/badge/VNPT_Cloud-Backend_Intern-FDBA74?style=for-the-badge&labelColor=0B192C" alt="VNPT Cloud"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <div align="left">
+        <a href="https://github.com/Khanhnv26">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&width=450&height=45&lines=Nguyen+Van+Khanh+%F0%9F%8C%8A;Java+Backend+Engineer+%E2%9A%A1;Distributed+Systems+%F0%9F%9A%80" alt="Name & Title" />
+        </a>
+        <p>
+          🎓 Final-year Software Engineering student @ <b>FPT University Hanoi</b><br/>
+          💼 <b>Java Backend Developer Intern</b> @ <b>VNPT Cloud</b><br/>
+          🚀 Focus: Scalable Microservices, Kafka Event Streaming & Redis Distributed Systems
+        </p>
+        <p>
+          <img src="https://img.shields.io/github/followers/Khanhnv26?style=flat-square&logo=github&color=38BDF8&labelColor=0B192C" alt="Followers"/>
+          <img src="https://img.shields.io/badge/FPT_University-Final--year_Student-06B6D4?style=flat-square&labelColor=0B192C" alt="FPT University"/>
+          <img src="https://img.shields.io/badge/VNPT_Cloud-Backend_Intern-FDBA74?style=flat-square&labelColor=0B192C" alt="VNPT Cloud"/>
+        </p>
+      </div>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="assets/banner.gif" width="370" alt="Ocean Wave Banner" style="border-radius: 10px; max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
