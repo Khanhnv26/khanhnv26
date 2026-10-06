@@ -44,18 +44,12 @@ Tập trung thiết kế và tối ưu **hệ thống phân tán có độ trễ
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" style="vertical-align: middle;" /> Tech Stack & Tooling
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>Backend & Distributed Systems</b><br/>
-      <sub>Java 21 &middot; Spring Boot 3 &middot; Spring Cloud &middot; Hibernate &middot; Apache Kafka &middot; Redis &middot; C++</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Infrastructure & Databases</b><br/>
-      <sub>Docker &middot; Kubernetes &middot; PostgreSQL &middot; MySQL &middot; SQL Server &middot; Git &middot; Linux</sub>
-    </td>
-  </tr>
-</table>
+* 💻 **Languages:** `Java (17/21)`, `C/C++`, `JavaScript`, `SQL`
+* ⚙️ **Backend Frameworks:** `Spring Boot 3`, `Spring Cloud Gateway`, `Spring Security`, `Hibernate / JPA`, `Maven`
+* 🛰️ **Distributed & Messaging:** `Apache Kafka` *(Event-Driven)*, `Redis` *(Distributed Caching & Redisson Locks)*, `RabbitMQ`
+* 🗄️ **Databases:** `PostgreSQL`, `MySQL`, `SQL Server`
+* 🐳 **DevOps & Infrastructure:** `Docker`, `Kubernetes`, `Git & GitHub Actions`, `Linux`
+* 🤖 **AI & Developer Tooling:** `Spring AI`, `Ollama`, `vLLM`, `Postman`, `IntelliJ IDEA`
 
 <div align="center">
   <br/>
@@ -66,58 +60,30 @@ Tập trung thiết kế và tối ưu **hệ thống phân tán có độ trễ
 <img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=2" width="100%"/>
 
 <!-- ======================================================== -->
-<!-- 🚀 FEATURED SYSTEMS & ARCHITECTURE                        -->
+<!-- 🚀 FEATURED PROJECTS (LIST FORMAT)                        -->
 <!-- ======================================================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" style="vertical-align: middle;" /> Featured Systems
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" style="vertical-align: middle;" /> Featured Projects
 
-### ⭐ [Mini Waybill Platform](https://github.com/Khanhnv26/Mini-Waybill-Platform---VNPT-Cloud) (VNPT Cloud)
-> *Nền tảng logistics & theo dõi vòng đời bưu kiện phân tán theo kiến trúc Microservices.*
+* 🚚 **[Mini Waybill Platform](https://github.com/Khanhnv26/Mini-Waybill-Platform---VNPT-Cloud)** *(Flagship System @ VNPT Cloud)*
+  * Nền tảng phân tán quản lý vận đơn và theo dõi vòng đời bưu kiện theo kiến trúc Microservices.
+  * **Công nghệ cốt lõi:** `Java 21`, `Spring Cloud Gateway`, `Apache Kafka`, `Redis`, `Docker`, `Kubernetes`
+  * **Giải pháp kỹ thuật:** Xác thực JWT & Rate Limiting tập trung, bus sự kiện Kafka xử lý bất đồng bộ, Redisson distributed locks kiểm soát đồng thời chống race condition.
 
-* 🛡️ **Spring Cloud Gateway**: Xác thực tập trung với JWT, phân quyền RBAC và rate-limiting chống nghẽn dịch vụ.
-* 🛰️ **Apache Kafka Event Bus**: Xử lý luồng sự kiện trạng thái đơn hàng bất đồng bộ giữa các microservices.
-* 🔒 **Redis Distributed Locks**: Cơ chế khóa phân tán ngăn chặn triệt để race condition khi cập nhật vận đơn đồng thời.
+* 🅿️ **[Smart Parking IoT](https://github.com/Khanhnv26/SmarkParkingIOT)**
+  * Hệ thống tự động hóa bãi đỗ xe thông minh, nhận diện vị trí trống và cảnh báo cháy nổ theo thời gian thực.
+  * **Công nghệ cốt lõi:** `C++`, `ESP32`, `FreeRTOS`, `IoT Cloud`, `Java`
+  * **Giải pháp kỹ thuật:** Truyền nhận dữ liệu cảm biến lên Cloud với độ trễ thấp, kênh telemetry cảnh báo khẩn cấp tức thì.
 
-```mermaid
-flowchart LR
-    C([Client]) --> G["Spring Cloud Gateway<br/>JWT &middot; Rate Limiting"]
-    G --> P[Parcel Service]
-    G --> T[Tracking Service]
-    P -- events --> K{{Kafka Event Bus}}
-    T -- events --> K
-    K --> N[Event Consumers]
-    P -.-> R[("Redis<br/>Distributed Locks")]
-    P --> D[(Database)]
-    classDef n fill:#0B192C,stroke:#38BDF8,stroke-width:2px,color:#E2E8F0;
-    classDef accent fill:#0B192C,stroke:#FDBA74,stroke-width:2px,color:#FDBA74;
-    class C,G,P,T,N,R,D n;
-    class K accent;
-```
+* ⚙️ **[Generator Management System](https://github.com/Khanhnv26/SWP391-QuanLyMayPhatDien-G1)** *(SWP391)*
+  * Hệ thống ERP quản lý tài sản máy phát điện và quy trình bảo trì, kiểm định định kỳ.
+  * **Công nghệ cốt lõi:** `Java Servlet`, `MySQL`, `jBcrypt`, `Apache POI`
+  * **Giải pháp kỹ thuật:** Phân quyền theo vai trò (RBAC) qua Servlet Filters, activity audit logging và xử lý batch dữ liệu Excel lớn.
 
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🅿️ <a href="https://github.com/Khanhnv26/SmarkParkingIOT">Smart Parking IoT</a></h3>
-      <sub>Hệ thống đỗ xe tự động, phát hiện không gian trống và cảnh báo cháy nổ độ trễ thấp từ cảm biến lên Cloud.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-        <img src="https://img.shields.io/badge/IoT_Cloud-38BDF8?style=flat-square" alt="IoT Cloud"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/Khanhnv26/SWP391-QuanLyMayPhatDien-G1">Generator Management</a></h3>
-      <sub>Hệ thống ERP quản lý tài sản máy phát điện (SWP391), bảo mật RBAC qua Servlet Filters và xử lý batch Excel.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/Java_Servlet-ED8B00?style=flat-square" alt="Java"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Apache_POI-D22128?style=flat-square" alt="POI"/>
-      </p>
-    </td>
-  </tr>
-</table>
+* 🛒 **[StarHub Web](https://github.com/Khanhnv26/StarHubWeb)**
+  * Nền tảng thương mại điện tử chuyên thiết bị công nghệ và linh kiện phần cứng.
+  * **Công nghệ cốt lõi:** `Java`, `Spring Boot`, `SQL Server`, `RESTful APIs`
+  * **Giải pháp kỹ thuật:** Kiến trúc dịch vụ phân tầng, quản lý giỏ hàng & thanh toán an toàn, tối ưu hóa chỉ mục quan hệ.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=2" width="100%"/>
 
