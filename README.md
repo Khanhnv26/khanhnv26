@@ -4,24 +4,23 @@
 
 <table width="100%">
   <tr>
-    <td width="58%" valign="middle">
+    <td width="56%" valign="middle">
       <div align="left">
         <a href="https://github.com/Khanhnv26">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&width=450&height=45&lines=Nguyen+Van+Khanh+%F0%9F%8C%8A;Java+Backend+Engineer+%E2%9A%A1;Distributed+Systems+%F0%9F%9A%80" alt="Name & Title" />
         </a>
+        <br/>
         <p>
-          🎓 Final-year Software Engineering student @ <b>FPT University Hanoi</b><br/>
-          💼 <b>Java Backend Developer Intern</b> @ <b>VNPT Cloud</b><br/>
-          🚀 Focus: Scalable Microservices, Kafka Event Streaming & Redis Distributed Systems
+          <sub>🌊 Crafting high-throughput microservices, event streaming & cloud architectures.</sub>
         </p>
         <p>
-          <img src="https://img.shields.io/github/followers/Khanhnv26?style=flat-square&logo=github&color=38BDF8&labelColor=0B192C" alt="Followers"/>
-          <img src="https://img.shields.io/badge/FPT_University-Final--year_Student-06B6D4?style=flat-square&labelColor=0B192C" alt="FPT University"/>
+          <img src="https://img.shields.io/badge/FPT_University-Final--year-06B6D4?style=flat-square&labelColor=0B192C" alt="FPT University"/>
           <img src="https://img.shields.io/badge/VNPT_Cloud-Backend_Intern-FDBA74?style=flat-square&labelColor=0B192C" alt="VNPT Cloud"/>
+          <img src="https://img.shields.io/github/followers/Khanhnv26?style=flat-square&logo=github&color=38BDF8&labelColor=0B192C" alt="Followers"/>
         </p>
       </div>
     </td>
-    <td width="42%" align="center" valign="middle">
+    <td width="44%" align="center" valign="middle">
       <img src="assets/banner.gif" width="370" alt="Ocean Wave Banner" style="border-radius: 10px; max-width: 100%;" />
     </td>
   </tr>
@@ -37,18 +36,10 @@
 
 ```json
 {
-  "engineer": "Nguyen Van Khanh",
-  "role": "Java Backend Developer",
-  "specialization": "Distributed Systems & Cloud-Native Microservices",
-  "education": "Software Engineering @ FPT University Hanoi",
-  "internship": "Java Backend Developer Intern @ VNPT Cloud",
-  "core_stack": [
-    "Java 21", "Spring Boot 3", "Spring Cloud", 
-    "Apache Kafka", "Redis", "Docker", "Kubernetes", "C++"
-  ],
-  "ai_tooling": ["Spring AI", "Ollama", "vLLM"],
-  "engineering_mindset": "Scale with simplicity, decouple with events, benchmark before optimizing.",
-  "status": "Ready to architect and ship resilient distributed systems 🚀"
+  "focus": "Distributed Systems · Event-Driven Microservices · Cloud-Native",
+  "stack": ["Java 21", "Spring Boot", "Kafka", "Redis", "Docker", "C++"],
+  "engineering_mindset": "Scale with simplicity, decouple with events, fail gracefully.",
+  "status": "Ready to build resilient systems 🚀"
 }
 ```
 
@@ -244,10 +235,10 @@ flowchart LR
 
 <table width="100%">
   <tr>
-    <!-- LeetCode Stats Card (thay đổi Khanhnv26 nếu dùng username LeetCode khác) -->
+    <!-- LeetCode Stats Card (KhanhLiteraturez) -->
     <td width="50%" align="center" valign="middle">
-      <a href="https://leetcode.com/u/Khanhnv26/">
-        <img height="175" src="https://leetcard.jacoblin.cool/Khanhnv26?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+      <a href="https://leetcode.com/u/KhanhLiteraturez/">
+        <img height="175" src="https://leetcard.jacoblin.cool/KhanhLiteraturez?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
       </a>
     </td>
     <!-- WakaTime Stats Card (thay đổi Khanhnv26 và đảm bảo profile wakatime.com ở chế độ public) -->
