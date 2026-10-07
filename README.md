@@ -26,7 +26,16 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="28" height="28" style="vertical-align: middle;" /> Core Engineering Focus
 
-Dedicated to architecting **low-latency, fault-tolerant distributed systems** and high-throughput backend services. Specialized in building scalable microservices with **Spring Boot 3**, designing asynchronous event pipelines via **Apache Kafka**, and enforcing high-concurrency data consistency with **Redis distributed locks**. Experienced in competitive problem solving, memory optimization, and low-level IoT systems in **C++**.
+<table>
+  <tr>
+    <td width="22%" align="center" valign="middle">
+      <img src="assets/blue_cat_coder.gif" width="135" alt="Blue Cat Developer" />
+    </td>
+    <td width="78%" valign="middle">
+      Dedicated to architecting <b>low-latency, fault-tolerant distributed systems</b> and high-throughput backend services. Specialized in building scalable microservices with <b>Spring Boot 3</b>, designing asynchronous event pipelines via <b>Apache Kafka</b>, and enforcing high-concurrency data consistency with <b>Redis distributed locks</b>. Experienced in competitive problem solving, memory optimization, and low-level IoT systems in <b>C++</b>.
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
