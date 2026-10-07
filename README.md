@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td width="22%" align="center" valign="middle">
-      <img src="assets/blue_cat_coder.gif" width="135" alt="Blue Cat Developer" />
+      <img src="assets/blue_cat_coder.png" width="135" alt="Blue Cat Developer" />
     </td>
     <td width="78%" valign="middle">
       Dedicated to architecting <b>low-latency, fault-tolerant distributed systems</b> and high-throughput backend services. Specialized in building scalable microservices with <b>Spring Boot 3</b>, designing asynchronous event pipelines via <b>Apache Kafka</b>, and enforcing high-concurrency data consistency with <b>Redis distributed locks</b>. Experienced in competitive problem solving, memory optimization, and low-level IoT systems in <b>C++</b>.
