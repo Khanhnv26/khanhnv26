@@ -26,12 +26,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="28" height="28" style="vertical-align: middle;" /> Core Engineering Focus
 
-<div align="center">
-  <img src="assets/it_meme.jpg" width="460" alt="Tui đã tự troll bản thân mình bằng cách chọn bừa ngành IT" />
-</div>
-
-<br/>
-
 <table>
   <tr>
     <td width="22%" align="center" valign="middle">
@@ -169,10 +163,10 @@
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
-## ✍️ Random Dev Quote
+## 🎬 The Origin Story
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="assets/it_meme.jpg" width="460" alt="Tui đã tự troll bản thân mình bằng cách chọn bừa ngành IT" />
 </div>
 
 <br/>

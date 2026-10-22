@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="100%" height="100%">
   <defs>
     <linearGradient id="cyber-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -18,36 +19,12 @@
     </linearGradient>
 
     <style>
-      .term-text {
-        font-family: ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, 'Source Code Pro', monospace;
-        font-size: 13px;
-        letter-spacing: 0.3px;
-      }
-      .term-title {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-        font-size: 12px;
-        font-weight: 500;
-        fill: #8B949E;
-      }
-      .c-prompt { fill: #38BDF8; font-weight: 600; }
-      .c-cmd { fill: #F8FAFC; }
-      .c-green { fill: #34D399; font-weight: 600; }
-      .c-purple { fill: #A78BFA; font-weight: 600; }
-      .c-pink { fill: #F472B6; font-weight: 600; }
-      .c-yellow { fill: #FBBF24; font-weight: 600; }
-      .c-cyan { fill: #38BDF8; }
-      .c-white { fill: #FFFFFF; font-weight: 600; }
-      .c-dim { fill: #64748B; }
-      .c-val { fill: #E2E8F0; }
-      .c-highlight { fill: #F1F5F9; font-weight: 600; }
-      
       @keyframes blink {
         0%, 49% { opacity: 1; }
         50%, 100% { opacity: 0; }
       }
       .cursor {
         animation: blink 1s infinite;
-        fill: #38BDF8;
       }
     </style>
   </defs>
@@ -61,49 +38,49 @@
   <circle cx="42" cy="20" r="6" fill="#FFBD2E" />
   <circle cx="62" cy="20" r="6" fill="#27C93F" />
 
-  <text x="430" y="24" text-anchor="middle" class="term-title">khanhnv26@cloud-node: ~/workspace/microservices (zsh)</text>
+  <text x="430" y="24" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E">khanhnv26@cloud-node: ~/workspace/microservices (zsh)</text>
 
-  <g class="term-text">
+  <g font-family="ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, 'Source Code Pro', monospace" font-size="13" letter-spacing="0.3">
     <text x="26" y="68">
-      <tspan class="c-prompt">khanhnv26@cloud-node</tspan><tspan class="c-dim">:</tspan><tspan class="c-purple">~/workspace</tspan><tspan class="c-dim">$</tspan> <tspan class="c-cmd">./bootstrap-services.sh --env=production</tspan>
+      <tspan fill="#38BDF8" font-weight="600">khanhnv26@cloud-node</tspan><tspan fill="#64748B">:</tspan><tspan fill="#A78BFA" font-weight="600">~/workspace</tspan><tspan fill="#64748B">$</tspan> <tspan fill="#F8FAFC">./bootstrap-services.sh --env=production</tspan>
     </text>
 
     <text x="26" y="93">
-      <tspan class="c-dim">[08:42:01]</tspan> <tspan class="c-green">[SPRING-BOOT-3]</tspan> <tspan class="c-val">Java 21 LTS &middot; Spring Cloud Gateway &middot; Virtual Threads: </tspan><tspan class="c-cyan">ACTIVE</tspan>
+      <tspan fill="#64748B">[08:42:01]</tspan> <tspan fill="#34D399" font-weight="600">[SPRING-BOOT-3]</tspan> <tspan fill="#E2E8F0">Java 21 LTS &#183; Spring Cloud Gateway &#183; Virtual Threads: </tspan><tspan fill="#38BDF8">ACTIVE</tspan>
     </text>
 
     <text x="26" y="118">
-      <tspan class="c-dim">[08:42:02]</tspan> <tspan class="c-yellow">[APACHE-KAFKA]</tspan> <tspan class="c-val">Event mesh connected &middot; Partitions: </tspan><tspan class="c-pink">parcel.events [12]</tspan><tspan class="c-val"> &middot; Offset: </tspan><tspan class="c-green">SYNCED</tspan>
+      <tspan fill="#64748B">[08:42:02]</tspan> <tspan fill="#FBBF24" font-weight="600">[APACHE-KAFKA]</tspan> <tspan fill="#E2E8F0">Event mesh connected &#183; Partitions: </tspan><tspan fill="#F472B6" font-weight="600">parcel.events [12]</tspan><tspan fill="#E2E8F0"> &#183; Offset: </tspan><tspan fill="#34D399" font-weight="600">SYNCED</tspan>
     </text>
 
     <text x="26" y="143">
-      <tspan class="c-dim">[08:42:03]</tspan> <tspan class="c-pink">[REDIS-LOCKS]</tspan> <tspan class="c-val">Redisson distributed lock manager initialized &middot; Concurrency guard: </tspan><tspan class="c-green">OPTIMAL</tspan>
+      <tspan fill="#64748B">[08:42:03]</tspan> <tspan fill="#F472B6" font-weight="600">[REDIS-LOCKS]</tspan> <tspan fill="#E2E8F0">Redisson distributed lock manager initialized &#183; Concurrency guard: </tspan><tspan fill="#34D399" font-weight="600">OPTIMAL</tspan>
     </text>
 
     <line x1="26" y1="164" x2="834" y2="164" stroke="url(#line-grad)" stroke-width="1" />
 
     <text x="26" y="191">
-      <tspan class="c-purple">DEVELOPER</tspan> <tspan class="c-dim">::</tspan> <tspan class="c-white">Nguyen Van Khanh</tspan> <tspan class="c-dim">(khanhnv26)</tspan>
+      <tspan fill="#A78BFA" font-weight="600">DEVELOPER</tspan> <tspan fill="#64748B">::</tspan> <tspan fill="#FFFFFF" font-weight="600">Nguyen Van Khanh</tspan> <tspan fill="#64748B">(khanhnv26)</tspan>
     </text>
 
     <text x="26" y="216">
-      <tspan class="c-cyan">ROLE     </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-highlight">Java Backend Software Engineer</tspan> <tspan class="c-dim">&middot;</tspan> <tspan class="c-val">Distributed Systems &amp; Cloud-Native</tspan>
+      <tspan fill="#38BDF8" font-weight="600">ROLE     </tspan> <tspan fill="#64748B">::</tspan> <tspan fill="#F1F5F9" font-weight="600">Java Backend Software Engineer</tspan> <tspan fill="#64748B">&#183;</tspan> <tspan fill="#E2E8F0">Distributed Systems &amp; Cloud-Native</tspan>
     </text>
 
     <text x="26" y="241">
-      <tspan class="c-yellow">AFFIL    </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-val">FPT University Hanoi</tspan> <tspan class="c-dim">(SE Final-Year)</tspan> <tspan class="c-dim">&bull;</tspan> <tspan class="c-val">VNPT Cloud</tspan> <tspan class="c-dim">(Java Backend Intern)</tspan>
+      <tspan fill="#FBBF24" font-weight="600">AFFIL    </tspan> <tspan fill="#64748B">::</tspan> <tspan fill="#E2E8F0">FPT University Hanoi</tspan> <tspan fill="#64748B">(SE Final-Year)</tspan> <tspan fill="#64748B">&#8226;</tspan> <tspan fill="#E2E8F0">VNPT Cloud</tspan> <tspan fill="#64748B">(Java Backend Intern)</tspan>
     </text>
 
     <text x="26" y="266">
-      <tspan class="c-green">CORE     </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-val">High-Throughput Microservices &middot; Event-Driven Architecture &middot; C++ Optimization</tspan>
+      <tspan fill="#34D399" font-weight="600">CORE     </tspan> <tspan fill="#64748B">::</tspan> <tspan fill="#E2E8F0">High-Throughput Microservices &#183; Event-Driven Architecture &#183; C++ Optimization</tspan>
     </text>
 
     <text x="26" y="291">
-      <tspan class="c-pink">STATUS   </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-green">&#x25CF; System Ready</tspan> <tspan class="c-dim">&mdash;</tspan> <tspan class="c-val">Architecting scalable platforms &amp; engineering reliable code</tspan>
+      <tspan fill="#F472B6" font-weight="600">STATUS   </tspan> <tspan fill="#64748B">::</tspan> <tspan fill="#34D399" font-weight="600">&#x25CF; System Ready</tspan> <tspan fill="#64748B">&#8212;</tspan> <tspan fill="#E2E8F0">Architecting scalable platforms &amp; engineering reliable code</tspan>
     </text>
 
     <text x="26" y="318">
-      <tspan class="c-prompt">khanhnv26@cloud-node</tspan><tspan class="c-dim">:</tspan><tspan class="c-purple">~/workspace</tspan><tspan class="c-dim">$</tspan> <tspan class="c-cmd">git commit -m "feat: ship rock-solid distributed systems" </tspan><tspan class="cursor">&#x2588;</tspan>
+      <tspan fill="#38BDF8" font-weight="600">khanhnv26@cloud-node</tspan><tspan fill="#64748B">:</tspan><tspan fill="#A78BFA" font-weight="600">~/workspace</tspan><tspan fill="#64748B">$</tspan> <tspan fill="#F8FAFC">git commit -m "feat: ship rock-solid distributed systems" </tspan><tspan class="cursor" fill="#38BDF8">&#x2588;</tspan>
     </text>
   </g>
 </svg>
