@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cyber-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#EC4899" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F141C"/>
+      <stop offset="100%" stop-color="#090D14"/>
+    </linearGradient>
+
+    <style>
+      .term-text {
+        font-family: ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, 'Source Code Pro', monospace;
+        font-size: 13px;
+        letter-spacing: 0.3px;
+      }
+      .term-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        fill: #8B949E;
+      }
+      .c-prompt { fill: #38BDF8; font-weight: 600; }
+      .c-cmd { fill: #F8FAFC; }
+      .c-green { fill: #34D399; font-weight: 600; }
+      .c-purple { fill: #A78BFA; font-weight: 600; }
+      .c-pink { fill: #F472B6; font-weight: 600; }
+      .c-yellow { fill: #FBBF24; font-weight: 600; }
+      .c-cyan { fill: #38BDF8; }
+      .c-white { fill: #FFFFFF; font-weight: 600; }
+      .c-dim { fill: #64748B; }
+      .c-val { fill: #E2E8F0; }
+      .c-highlight { fill: #F1F5F9; font-weight: 600; }
+      
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor {
+        animation: blink 1s infinite;
+        fill: #38BDF8;
+      }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="856" height="336" rx="12" fill="url(#bg-grad)" stroke="url(#cyber-grad)" stroke-width="1.6" />
+
+  <path d="M 2 14 Q 2 2 14 2 L 846 2 Q 858 2 858 14 L 858 38 L 2 38 Z" fill="#161B22" />
+  <line x1="2" y1="38" x2="858" y2="38" stroke="#30363D" stroke-width="1" />
+
+  <circle cx="22" cy="20" r="6" fill="#FF5F56" />
+  <circle cx="42" cy="20" r="6" fill="#FFBD2E" />
+  <circle cx="62" cy="20" r="6" fill="#27C93F" />
+
+  <text x="430" y="24" text-anchor="middle" class="term-title">khanhnv26@cloud-node: ~/workspace/microservices (zsh)</text>
+
+  <g class="term-text">
+    <text x="26" y="68">
+      <tspan class="c-prompt">khanhnv26@cloud-node</tspan><tspan class="c-dim">:</tspan><tspan class="c-purple">~/workspace</tspan><tspan class="c-dim">$</tspan> <tspan class="c-cmd">./bootstrap-services.sh --env=production</tspan>
+    </text>
+
+    <text x="26" y="93">
+      <tspan class="c-dim">[08:42:01]</tspan> <tspan class="c-green">[SPRING-BOOT-3]</tspan> <tspan class="c-val">Java 21 LTS &middot; Spring Cloud Gateway &middot; Virtual Threads: </tspan><tspan class="c-cyan">ACTIVE</tspan>
+    </text>
+
+    <text x="26" y="118">
+      <tspan class="c-dim">[08:42:02]</tspan> <tspan class="c-yellow">[APACHE-KAFKA]</tspan> <tspan class="c-val">Event mesh connected &middot; Partitions: </tspan><tspan class="c-pink">parcel.events [12]</tspan><tspan class="c-val"> &middot; Offset: </tspan><tspan class="c-green">SYNCED</tspan>
+    </text>
+
+    <text x="26" y="143">
+      <tspan class="c-dim">[08:42:03]</tspan> <tspan class="c-pink">[REDIS-LOCKS]</tspan> <tspan class="c-val">Redisson distributed lock manager initialized &middot; Concurrency guard: </tspan><tspan class="c-green">OPTIMAL</tspan>
+    </text>
+
+    <line x1="26" y1="164" x2="834" y2="164" stroke="url(#line-grad)" stroke-width="1" />
+
+    <text x="26" y="191">
+      <tspan class="c-purple">DEVELOPER</tspan> <tspan class="c-dim">::</tspan> <tspan class="c-white">Nguyen Van Khanh</tspan> <tspan class="c-dim">(khanhnv26)</tspan>
+    </text>
+
+    <text x="26" y="216">
+      <tspan class="c-cyan">ROLE     </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-highlight">Java Backend Software Engineer</tspan> <tspan class="c-dim">&middot;</tspan> <tspan class="c-val">Distributed Systems &amp; Cloud-Native</tspan>
+    </text>
+
+    <text x="26" y="241">
+      <tspan class="c-yellow">AFFIL    </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-val">FPT University Hanoi</tspan> <tspan class="c-dim">(SE Final-Year)</tspan> <tspan class="c-dim">&bull;</tspan> <tspan class="c-val">VNPT Cloud</tspan> <tspan class="c-dim">(Java Backend Intern)</tspan>
+    </text>
+
+    <text x="26" y="266">
+      <tspan class="c-green">CORE     </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-val">High-Throughput Microservices &middot; Event-Driven Architecture &middot; C++ Optimization</tspan>
+    </text>
+
+    <text x="26" y="291">
+      <tspan class="c-pink">STATUS   </tspan> <tspan class="c-dim">::</tspan> <tspan class="c-green">&#x25CF; System Ready</tspan> <tspan class="c-dim">&mdash;</tspan> <tspan class="c-val">Architecting scalable platforms &amp; engineering reliable code</tspan>
+    </text>
+
+    <text x="26" y="318">
+      <tspan class="c-prompt">khanhnv26@cloud-node</tspan><tspan class="c-dim">:</tspan><tspan class="c-purple">~/workspace</tspan><tspan class="c-dim">$</tspan> <tspan class="c-cmd">git commit -m "feat: ship rock-solid distributed systems" </tspan><tspan class="cursor">&#x2588;</tspan>
+    </text>
+  </g>
+</svg>

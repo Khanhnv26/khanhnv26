@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=220&section=header&text=Software%20Engineer&fontSize=44&fontAlignY=38&animation=twinkling&desc=Distributed%20Systems%20%7C%20Microservices%20%7C%20Cloud-Native&descSize=17&descAlignY=60&fontColor=FFFFFF" width="100%" alt="Software Engineer"/>
+  <img src="assets/terminal_banner.svg" width="100%" alt="Nguyen Van Khanh — Terminal Window"/>
 </div>
 
 <div align="center">
@@ -25,6 +25,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="28" height="28" style="vertical-align: middle;" /> Core Engineering Focus
+
+<div align="center">
+  <img src="assets/it_meme.jpg" width="460" alt="Tui đã tự troll bản thân mình bằng cách chọn bừa ngành IT" />
+</div>
+
+<br/>
 
 <table>
   <tr>
