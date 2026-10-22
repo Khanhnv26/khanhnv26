@@ -171,6 +171,6 @@
 
 <br/>
 
-<div align="center">S
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=100&section=footer" width="100%"/>
 </div>
