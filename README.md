@@ -163,7 +163,7 @@
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
-## 🥀🥀🥀🥀 J4F
+## J4F 🥀🤡
 
 <div align="center">
   <img src="assets/it_meme.jpg" width="460" alt="Tui đã tự troll bản thân mình bằng cách chọn bừa ngành IT" />
@@ -171,9 +171,6 @@
 
 <br/>
 
-<div align="center">
-  <p>
-    <b>Designed with focus &bull; Built for high concurrency &bull; &copy; 2026 Nguyen Van Khanh</b>
-  </p>
+<div align="center">S
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=100&section=footer" width="100%"/>
 </div>
