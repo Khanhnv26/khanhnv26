@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/header_banner.png" width="100%" style="border-radius: 8px;" alt="Nguyen Van Khanh — Pixel Art Banner"/>
+</div>
+
+<div align="center">
   <img src="assets/terminal_banner.svg" width="100%" alt="Nguyen Van Khanh — Terminal Window"/>
 </div>
 
@@ -41,91 +45,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" style="vertical-align: middle;" /> Tech Stack & Tooling
 
-* 💻 **Languages:**
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-
-* ⚙️ **Backend & Frameworks:**
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Security"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
-
-* 🛰️ **Distributed Systems & Messaging:**
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-
-* 🗄️ **Databases:**
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-* 🐳 **DevOps & Infrastructure:**
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions"/>
-
-* 🤖 **AI & Developer Tooling:**
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white" alt="vLLM"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IDEA"/>
-
 <div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,postgres,docker,kubernetes,cpp&theme=dark" alt="Core Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,rabbitmq,postgres,mysql,docker,kubernetes,linux,git,githubactions,maven,postman,idea,cpp,c,js&perline=9&theme=dark" alt="Core Tech Stack" />
+  </a>
 </div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" style="vertical-align: middle;" /> Featured Projects
-
-* 🚚 **[Mini Waybill Platform](https://github.com/Khanhnv26/Mini-Waybill-Platform---VNPT-Cloud)** *(Flagship System @ VNPT Cloud)*
-  * Distributed parcel tracking and waybill lifecycle platform architected with cloud-native microservices.
-  * **Core Stack:**
-    <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21"/>
-    <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  * **Key Solutions:** Spring Cloud Gateway with JWT authentication & rate-limiting, Kafka event streaming for asynchronous cross-service orchestration, and Redisson distributed locks preventing race conditions in high-concurrency parcel updates.
-
-* 🅿️ **[Smart Parking IoT](https://github.com/Khanhnv26/SmarkParkingIOT)**
-  * Automated smart parking system featuring ultrasonic space monitoring and real-time fire safety telemetry.
-  * **Core Stack:**
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-    <img src="https://img.shields.io/badge/FreeRTOS-00A4A6?style=flat-square" alt="FreeRTOS"/>
-    <img src="https://img.shields.io/badge/IoT_Cloud-38BDF8?style=flat-square" alt="IoT Cloud"/>
-  * **Key Solutions:** Ultra-low-latency sensor-to-cloud telemetry pipelines, hardware interrupt handling, and automated push notifications for critical events.
-
-* ⚙️ **[Generator Management System](https://github.com/Khanhnv26/SWP391-QuanLyMayPhatDien-G1)** *(SWP391)*
-  * Enterprise ERP solution for power generator asset lifecycle management, maintenance scheduling, and periodic inspection tracking.
-  * **Core Stack:**
-    <img src="https://img.shields.io/badge/Java_Servlet-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/jBcrypt-555555?style=flat-square" alt="jBcrypt"/>
-    <img src="https://img.shields.io/badge/Apache_POI-D22128?style=flat-square" alt="POI"/>
-  * **Key Solutions:** Granular Role-Based Access Control (RBAC) via Servlet Filters, comprehensive activity audit logging, and high-volume Excel batch import/export pipelines.
-
-* 🛒 **[StarHub Web](https://github.com/Khanhnv26/StarHubWeb)**
-  * High-performance e-commerce platform dedicated to consumer tech gadgets and hardware components.
-  * **Core Stack:**
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-    <img src="https://img.shields.io/badge/REST_API-06B6D4?style=flat-square" alt="REST API"/>
-  * **Key Solutions:** Multi-tier service layer architecture, robust transactional checkout pipelines, and relational database indexing for query speedups.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
 
@@ -161,16 +85,10 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
-
-## J4F 🥀🤡
 
 <div align="center">
-  <img src="assets/it_meme.jpg" width="460" alt="Tui đã tự troll bản thân mình bằng cách chọn bừa ngành IT" />
-</div>
-
-<br/>
-
-<div align="center">
+  <p>
+    <b>Designed with focus &bull; Built for high concurrency &bull; &copy; 2026 Nguyen Van Khanh</b>
+  </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:38BDF8&height=100&section=footer" width="100%"/>
 </div>
