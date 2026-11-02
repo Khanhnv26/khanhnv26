@@ -46,9 +46,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" style="vertical-align: middle;" /> Tech Stack & Tooling
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,rabbitmq,postgres,mysql,docker,kubernetes,linux,git,githubactions,maven,postman,idea,cpp,c,js&perline=9&theme=dark" alt="Core Tech Stack" />
-  </a>
+  <img src="assets/tech_stack.svg" alt="Core Tech Stack" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:38BDF8&height=3" width="100%"/>
